@@ -1,0 +1,86 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+	/*font-family: 'Open Sans', sans-serif;*/
+}
+.bg{
+	height: 1000px;
+	background: url(../image/bg.png)center center;
+	background-size: cover;
+}
+.logo{
+	width: 140px;
+	height: 75px;
+	background: #fa5c65;
+	margin-top: -13px;
+	margin-left: -14px;
+	border-bottom-right-radius: 6px;
+	border-bottom-left-radius: 6px;
+	text-align: center;
+	color: white;
+	padding-top: 40px;
+}
+h1{
+	padding-top: 300px;
+	font-size: 48px;
+	color: #314a5b;
+}
+p{
+	font-size: 15px;
+	color: #aeb3bc;
+	font-family: 'Open Sans', sans-serif;
+}
+.p20{
+	font-size: 20px;
+	color: #314a5b;
+}
+.button{
+	color: white;
+	border-radius: 6px;
+	background: #fa5c65;
+	border: none;
+	padding: 25px 40px;
+}
+h3{
+	font-size: 26px;
+	color: #465065;
+}
+.corr{
+	margin-top: 80px;
+}
+.corr2{
+	margin-bottom: 40px;
+}
+.link{
+	font-size: 14px;
+	color: #fa5c65;
+	text-decoration: none;
+}
+.link:hover{
+	color: #fa5c65;
+}
+h2{
+	color: #314a5b;
+	font-size: 40px;
+	line-height: 
+}
+.p16{
+	font-size: 16px;
+	color: #314a5b;
+	font-family: 'Open Sans', sans-serif;
+}
+.for_photo{
+	float: right;
+	margin-top: 40px;
+}
+.fl{
+	float: right;
+}
+.soc{
+	margin-left: 15px;
+}
+
+.imgM{
+	width: 160px;
+	height: 160px;
+}
+
