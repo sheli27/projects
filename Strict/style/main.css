@@ -1,0 +1,177 @@
+body{
+	margin: 0px;
+	font-family: 'Lato', sans-serif;
+}
+.conteiner{
+	width: 1000px;
+	min-height: 100px;
+	margin: 0 auto;
+}
+.logo{
+	padding-top: 30px;
+}
+.headbg{
+	height: 800px;
+	background: url(../image/headbg.png)center center no-repeat;
+	background-size: cover;
+}
+
+h1{
+	font-size: 120px;
+	padding-top: 200px;
+	text-align: center;
+	margin: 0px;
+}
+.white{
+	color: white;
+}
+.line{
+	width: 500px;
+	height: 2px;
+	background: #15a4fa;
+	margin: 0 auto;
+}
+h2{
+	font-size: 40px;
+	color: #2d3950;
+	margin: 0px;
+}
+p{
+	font-size: 20px;
+	color: #999999;
+
+}
+.p15{
+	font-size: 15px;
+	color: #999999;
+
+}
+h3{
+	font-size: 22px;
+	color: #2d3950;
+	margin: 0px;
+}
+.button{
+	margin-top: 50px;
+	padding: 20px 30px;
+	background: #15a4fa;
+	color: white;
+	font-size: 20px;
+	border-radius: 5px;
+	border: none; 
+}
+.button:hover{
+	background: #0a8ad7;
+	cursor: pointer;
+}
+
+.spd{
+	padding-top: 80px;
+	height: 270px;
+	background: #f6f9f9;
+}
+
+.icons{
+	height: 350px;
+}
+
+.box1{
+	float: left;
+	text-align: center;
+	width: 273px;
+	height: 200px;
+	margin: 60px 30px 0px 30px;
+}
+
+.picture{
+	padding-top: 80px;
+	height: 890px;
+	background: #f6f9f9;
+}
+
+.for_picture{
+	letter-spacing: 25px;	
+	height: 560px;
+	margin-top: 70px;
+}
+.for_image1{
+	height: 230px;
+	width: 314px;
+
+}
+.for_image2{
+	height: 230px;
+	width: 314px;
+
+}
+.for_image3{
+	height: 230px;
+	width: 314px;
+
+}
+.for_image4{
+	height: 230px;
+	width: 314px;
+	margin-top: 25px;
+}
+.for_image5{
+	height: 230px;
+	width: 314px;
+	margin-top: 25px;
+}
+.for_image6{
+	height: 230px;
+	width: 314px;
+	margin-top: 25px;
+}
+
+.form{
+	height: 700px;
+	background: url(../image/bg.png)center;
+	background-size: cover;
+}
+.corr{
+	padding-top: 70px;
+}
+.itext{
+	width: 550px;
+	margin: 10px 0px;
+	padding: 20px 25px;
+	font-size: 18px;
+	outline: none;
+	background: none;
+	border: 1px solid #999999;
+	border-radius: 3px;
+	font-family: 'Lato', sans-serif;
+	resize: none;
+	color: white;
+}
+.form_block{
+	width: 602px;
+	margin: 0 auto;
+}
+.itext:focus{
+	border: 1px solid white;
+}
+.corr2{
+	margin-top: -50px;
+	float: right;
+	padding-left: 70px;
+	padding-right: 70px;
+}
+.foot{
+	height: 90px;
+	line-height: 90px;
+}
+.social{
+	float: right;
+	margin-top: 25px;
+	margin-left: 5px;
+}
+.box33{
+	width: 273px;
+	margin: 60px 30px 0px 30px;
+	height: 200px;
+	float: left;
+	text-align: center;
+}
